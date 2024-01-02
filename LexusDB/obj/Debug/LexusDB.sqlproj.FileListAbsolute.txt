@@ -1,0 +1,6 @@
+D:\LeXus_App\LexusDB\bin\Debug\LexusDB.dacpac
+D:\LeXus_App\LexusDB\bin\Debug\LexusDB.dll
+D:\LeXus_App\LexusDB\bin\Debug\LexusDB.pdb
+D:\LeXus_App\LexusDB\obj\Debug\LexusDB.sqlproj.AssemblyReference.cache
+D:\LeXus_App\LexusDB\obj\Debug\LexusDB.dll
+D:\LeXus_App\LexusDB\obj\Debug\LexusDB.pdb
