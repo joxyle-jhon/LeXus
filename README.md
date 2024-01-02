@@ -3,4 +3,4 @@ Streamlining property management. Simplify tenant onboarding, lease tracking, an
 
 # Sample UI
 
-![Description or Alt text](Assets/images/loginPage.png)
+![Description or Alt text](images/loginPage.png)
