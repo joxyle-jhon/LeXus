@@ -1,4 +1,4 @@
-# LeXus
+# LeXus : Tenant Management Application
 Streamlining property management. Simplify tenant onboarding, lease tracking, and communication. 
 
 # Sample UI
