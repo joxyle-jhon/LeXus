@@ -1,5 +1,5 @@
 # LeXus
-Streamlining property management. Simplify tenant onboarding, lease tracking, and communication. 
+Streamlining property management. Simplify tenant onboarding, lease tracking, and communication
 
 # Sample UI
 
